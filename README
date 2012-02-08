@@ -1,0 +1,2 @@
+Module to convert a requirements.txt file content to two python lists for
+install_requires and download_links setup arguments
